@@ -14,8 +14,8 @@ Guidance for using the web app is provided within the web page.
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/aromalanil/Random-Quote-Generator.git
-cd Random-Quote-Generator
+git clone https://github.com/EbinJS/Gradient-Colours.git
+cd Gradient-Colours
 ```
 
 ```bash
