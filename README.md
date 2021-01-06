@@ -3,7 +3,9 @@
   <p>A React App which allows the users to play with gradient colours.</p>
 </div>
 
-[Live Demo](https://gradient-colours-ebinjs.netlify.app/)
+## DEMO
+
+View [Gradient-Colours](https://gradient-colours-ebinjs.netlify.app/)
 
 ## GUIDANCE
 
