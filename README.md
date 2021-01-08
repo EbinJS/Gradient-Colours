@@ -1,6 +1,6 @@
 <h1 align="center">Gradient-Colours</h1>
 <div align="center">
-  <p>A React App which allows the users to play with gradient colours.</p>
+  <p>A React App which allows the users to play with gradient colours🟥🟩🟦</p>
 </div>
 
 ## DEMO
